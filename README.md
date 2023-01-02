@@ -17,9 +17,9 @@ Developed a Fire-Alarm system that detects fire and smoke using OpenCV. This pro
 
 ## What is HSV color algorithm?
 
-![](github-readme-content/hsv-1.jpg)
+![](github-readme-files/hsv-1.jpg)
 
-![](github-readme-content/hsv-0.png)
+![](github-readme-files/hsv-0.png)
 
 Color isolation can be achieved by extracting a particular HSV (hue, saturation, value) from an image. The algorithm is simple and the main steps are as follows:
 
