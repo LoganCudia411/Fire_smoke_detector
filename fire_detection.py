@@ -2,7 +2,7 @@ import cv2
 
 #capture video using cv2 (0 is for first webcam)
 # put video name to capture video
-video = cv2.VideoCapture("video.mov")
+video = cv2.VideoCapture("test_video.mov")
 
 #while video is running, we track the frames
 while True:
