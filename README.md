@@ -47,5 +47,4 @@ We want to convert the image to HSV because working with HSV values is much easi
     python fire-detection.py
   ```
 
-Social Media Links
----
+
